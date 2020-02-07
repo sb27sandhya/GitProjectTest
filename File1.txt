@@ -5,3 +5,4 @@ Welcome to git................
 heeee
 
 changing file for fixing bug1
+change 2 for fixing bug2
