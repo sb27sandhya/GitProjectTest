@@ -1,3 +1,5 @@
 new file2 is created by CR1 branch
 
 change to test push to remote repository
+
+this is the change made by my team member from his feature and pushed in local
