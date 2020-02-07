@@ -1,5 +1,7 @@
 new file2 is created by CR1 branch
 
-change to test push to remote repository
+change 1- change to test push to remote repository
 
-this is the change made by my team member from his feature and pushed in local
+change 2- this is the change made by my team member from his feature and pushed in local
+
+change 3- change made by teammate to test the rebase on remote repo
