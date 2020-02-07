@@ -3,3 +3,5 @@ hello world!!!
 Welcome to git................
 
 heeee
+
+changing file for fixing bug1
